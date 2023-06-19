@@ -25,7 +25,9 @@
 - Fix bug lỗi lọc bóng cá trên android 32 bit
 
 4.1.0:
+- Thêm tính năng giới thiệu nội dung cập nhật
+
+4.1.1
 - Kéo cá bóng 6 chậm đi giảm thiểu bị tố cáo
 - Không đọc dữ liệu bóng cá khi câu tất cả
-- Thêm tính năng giới thiệu nội dung cập nhật
 
