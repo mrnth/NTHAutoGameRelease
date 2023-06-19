@@ -1,0 +1,29 @@
+4.0.4:
+- Update câu bóng 6
+- Sửa lỗi kéo cần sớm khi lia chuột qua giả lập
+
+4.0.5:
+- Fix lỗi chấm than khi sử dụng cần câu mỏ neo
+
+4.0.6:
+- Fix lỗi bảo quản
+- Fix lỗi câu bóng 6 kéo sớm
+
+4.0.7:
+- Tự động quét danh sách tên các cửa sổ giả lập đang mở
+- Quét chấm than cho cả 2 phiên bản Android 32 bit và Android 64 bit
+- Quét chấm than không bị chặn bởi diệt virus
+- Khi treo nhiều tài khoản, nếu bị crash game, có thể kết nối lại tool với giả lập tương ứng mà không cần tắt bật lại
+- Bỏ tính năng hiện ảnh cá và đếm cá theo màu để tối ưu, giảm dung lượng tool
+
+4.0.8:
+- Tính năng lọc bóng cá
+- Tự động update cho các phiên bản sau 4.0.8
+- Tính năng hiện hướng dẫn dùng tool khi di chuột vào các nút ấn trên tool
+
+4.0.9:
+- Fix bug lỗi lọc bóng cá trên android 32 bit
+
+4.1.0:
+- giảm độ trễ kéo cá khi chấm than
+- tăng độ trễ kéo cá khi bóng 6 chạy
