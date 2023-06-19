@@ -1,3 +1,2 @@
-4.1.0:
 - Giảm độ trễ kéo cá khi chấm than
 - Tăng độ trễ kéo cá khi bóng 6 chạy
