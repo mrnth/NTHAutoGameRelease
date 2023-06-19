@@ -1,2 +1,3 @@
-- Giảm độ trễ kéo cá khi chấm than
-- Tăng độ trễ kéo cá khi bóng 6 chạy
+- Kéo cá bóng 6 chậm đi giảm thiểu bị tố cáo
+- Không đọc dữ liệu bóng cá khi câu tất cả
+- Thêm tính năng giới thiệu nội dung cập nhật
