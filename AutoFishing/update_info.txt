@@ -1,3 +1,4 @@
 - Thêm tính năng giới thiệu nội dung cập nhật
-- Kéo cá bóng 6 chậm đi giảm thiểu bị tố cáo
 - Không đọc dữ liệu bóng cá khi câu tất cả
+- Kéo cá bóng 6 nhanh hơn
+- AE đã bị ban chưa :D :D :D

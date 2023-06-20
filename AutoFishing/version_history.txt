@@ -29,3 +29,6 @@
 - Kéo cá bóng 6 chậm đi giảm thiểu bị tố cáo
 - Không đọc dữ liệu bóng cá khi câu tất cả
 
+4.1.1:
+- Kéo cá bóng 6 nhanh hơn
+
