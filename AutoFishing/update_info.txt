@@ -1,4 +1,2 @@
-- Thêm tính năng giới thiệu nội dung cập nhật
-- Không đọc dữ liệu bóng cá khi câu tất cả
-- Kéo cá bóng 6 nhanh hơn
-- AE đã bị ban chưa :D :D :D
+- Tích hợp Mod của admin Đạt vào tool, ko bị windows chặn
+- Update mod theo phiên bản mới

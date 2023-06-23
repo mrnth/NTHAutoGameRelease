@@ -34,4 +34,7 @@
 
 4.1.2:
 - Fix lỗi sửa cần quá 5 lần
+- Tích hợp Mod vào tool, ko bị windows chặn
+- Update mod theo phiên bản mới
+
 
