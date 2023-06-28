@@ -37,4 +37,9 @@
 - Tích hợp Mod vào tool, ko bị windows chặn
 - Update mod theo phiên bản mới
 
+4.1.3:
+- Thêm lựa chọn giữ lại rác khi lọc bóng
+- Thêm tính năng tele
+- Sửa lỗi giao diện mod
+
 
