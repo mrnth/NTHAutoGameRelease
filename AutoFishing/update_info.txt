@@ -1,2 +1,3 @@
-- Tích hợp Mod của admin Đạt vào tool, ko bị windows chặn
-- Update mod theo phiên bản mới
+- Thêm lựa chọn giữ lại rác khi lọc bóng
+- Thêm tính năng tele
+- Sửa lỗi giao diện mod
