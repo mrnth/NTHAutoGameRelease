@@ -1,3 +1,1 @@
-- Thêm lựa chọn giữ lại rác khi lọc bóng
-- Thêm tính năng tele
-- Sửa lỗi giao diện mod
+- Fix lỗi ko tắt được thông báo chơi quá 180p khi đang bảo quản
