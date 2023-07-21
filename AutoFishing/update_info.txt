@@ -1,3 +1,2 @@
-- Lọc bóng cá thêm lựa chọn giữ một số loại rác
-- Thêm tính năng MOD cho android 64 bit
-- Cho phép kết nối giả lập khi để scale and layout 125%, 150% trên Windows 10 và 11 
+- Thêm tính năng bán cá cho người chơi mua gói bán cá trong game 
+- Update mod cho phiên bản mới của game

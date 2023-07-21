@@ -52,5 +52,6 @@
 
 4.1.6:
 - Thêm tính năng bán cá cho người chơi mua gói bán cá trong game 
+- Update mod cho phiên bản mới của game
 
 
