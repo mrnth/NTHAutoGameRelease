@@ -57,3 +57,7 @@
 4.1.7:
 - Update chấm than cho phiên bản mới
 - Sửa lỗi lọc bán cá
+
+4.1.8:
+- Update mod cho phiên bản game 1.64
+
