@@ -66,3 +66,8 @@
 
 4.2.0:
 - Update auto và mod cho phiên bản game 1.68
+
+4.2.1:
+- Update auto 64 bit cho phiên bản game 2.01.0
+- Vì AD đang trong thời gian bận rộn nên không thể update mod và auto bản 32bit
+- Mọi người thông cảm cho AD nhá <3
