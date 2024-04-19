@@ -71,3 +71,6 @@
 - Update auto 64 bit cho phiên bản game 2.01.0
 - Vì AD đang trong thời gian bận rộn nên không thể update mod và auto bản 32bit
 - Mọi người thông cảm cho AD nhá <3
+
+4.2.2:
+- Update mod + auto (32 bit) cho phiên bản game 2.01.0
