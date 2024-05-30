@@ -75,7 +75,7 @@
 4.2.2:
 - Update mod + auto (32 bit) cho phiên bản game 2.01.0
 
-4.3.0:
+4.3.1:
 - Update câu all (Cả bóng 6) cho phiên bản game 2.03.0
 - Do mình đang bận nên sẽ update lọc bóng + mod sau nhé!
 - Mọi người thông cảm nhé!!!
