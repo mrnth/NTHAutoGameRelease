@@ -1,3 +1,2 @@
-- Hiện tại mình khá bận nên k làm lọc bóng cho m.n mong m.n thông cảm nhe <3
-- Update bán all cá giữ lại bóng 6
-- Update mod
+- Update mod cho phiên bản 2.05
+- Update mở hộp thẻ khi câu được
