@@ -88,3 +88,7 @@
 4.3.3:
 - Update mod cho phiên bản 2.05
 - Update mở hộp thẻ khi câu được
+
+4.3.4:
+
+- Update auto 64 bit phiên bản game 2.0.7
