@@ -90,5 +90,7 @@
 - Update mở hộp thẻ khi câu được
 
 4.3.4:
-
 - Update auto 64 bit phiên bản game 2.0.7
+
+4.3.5:
+- Update mod phiên bản game 2.0.7
