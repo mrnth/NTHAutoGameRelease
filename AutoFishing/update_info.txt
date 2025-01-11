@@ -1,1 +1,1 @@
-- Fix lỗi không câu được ở phiên bản game 2.11.0
+- Fix lỗi không bán được cá phiên bản game 2.11.0
