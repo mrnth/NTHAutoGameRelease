@@ -101,5 +101,5 @@
 4.3.7:
 - Fix lỗi không bán được cá phiên bản game 2.11.0
 
-4.3.8:
+4.3.8 + 4.3.9:
 - Update auto 64 bit phiên bản game mới
