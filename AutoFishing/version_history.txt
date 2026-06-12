@@ -103,3 +103,6 @@
 
 4.3.8 + 4.3.9:
 - Update auto 64 bit phiên bản game mới
+
+4.4.0:
+- Update tọa độ nút bảo quản và bán cá

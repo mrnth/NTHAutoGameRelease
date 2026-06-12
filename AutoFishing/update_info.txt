@@ -1,1 +1,1 @@
-- Update auto 64 bit phiên bản game mới
+- Update tọa độ nút bảo quản và bán cá
