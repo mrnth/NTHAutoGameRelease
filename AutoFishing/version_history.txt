@@ -106,3 +106,6 @@
 
 4.4.0:
 - Update tọa độ nút bảo quản và bán cá
+
+4.4.1:
+- Update auto 64 bit phiên bản game mới
