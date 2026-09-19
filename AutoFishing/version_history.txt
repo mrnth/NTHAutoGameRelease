@@ -109,3 +109,6 @@
 
 4.4.1:
 - Update auto 64 bit phiên bản game mới
+
+4.4.2:
+- Update auto 64 bit phiên bản game mới
