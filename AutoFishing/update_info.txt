@@ -1,1 +1,3 @@
-- Update auto 64 bit phiên bản game mới
+- Chuyển đổi hệ thống máy chủ cập nhật sang GitLab
+- Tối ưu thuật toán kiểm tra phiên bản và dự phòng đường truyền
+- Nâng cấp độ ổn định cho tính năng tự động cập nhật
